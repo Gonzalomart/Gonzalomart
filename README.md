@@ -6,13 +6,11 @@ I am a Software Engineering undergraduate at **Universidad Politécnica de Madri
 - 🎓 Currently studying **Software Engineering** at UPM (Madrid, Spain)
 - 🔬 Former **NLP & Information Retrieval Research Intern** at UNED
 - 🌱 Focused on **Backend Architecture, AI/NLP applications, and DevOps practices**[cite: 1, 2]
-- 📫 Reach me at: **gonz.martin.gonzalez@gmail.com** | [LinkedIn](https://linkedin.com/in/tu-perfil)[cite: 1]
+- 📫 Reach me at: **gonz.martin.gonzalez@gmail.com** | [LinkedIn](https://www.linkedin.com/in/gonzalo-m-0950a8141/)[cite: 1]
 
 ---
 
 ### 🚀 Featured Projects
-
-*(Tip: Sustituye los enlaces de abajo conforme vayas subiendo tus repositorios)*
 
 * **[Semantic Document Search Engine](#)** *(In Progress)* — Python-based Information Retrieval tool using NLP embeddings and cosine similarity to query technical documents in natural language.
 * **[Task & Resource Management API](#)** *(Planned)* — RESTful backend built with Java, MySQL, and JUnit unit testing, fully containerized with Docker[cite: 1].
@@ -41,4 +39,4 @@ I am a Software Engineering undergraduate at **Universidad Politécnica de Madri
 
 ### 📊 GitHub Activity
 
-![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical)
+![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalomart&show_icons=true&theme=radical)
